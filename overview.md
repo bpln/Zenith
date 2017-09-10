@@ -33,3 +33,7 @@ Fog/Edge Computing is emerging to fill the gap between the Cloud and the end-poi
 **Publications**
 
  + Jinlai Xu, Balaji Palanisamy, Heiko Ludwig, Qingyang Wang (2017). [Zenith: Utility-aware Resource Allocation for Edge Computing](https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing), IEEE Edge 2017.
+ 
+**Slides**
+
+<iframe src="https://onedrive.live.com/embed?cid=E1DD6EDD2DA4DFBE&resid=E1DD6EDD2DA4DFBE%2121505&authkey=AK5qp4kx3NvYRag&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
