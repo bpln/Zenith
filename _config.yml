@@ -1,42 +1,27 @@
-# Profile information
-name: Zenith
-title: Zenith
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-baseurl: "/Zenith" # the subpath of your site, e.g. /blog
-url: "bpln.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-# Social
-facebook: #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
-github: #Add your Github
+# Setup
+title:            Zenith
+tagline:          'Zenith'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://fongandrew.github.io/hydeout
+baseurl:          "/Zenith" # the optional subpath of your site, e.g. "/blog"
 
-# Contact form
-email: #your-email@domain.com
+author:
+  name:           'Jinlai Xu'
+  url:            https://jinlaixu.net
 
-# Comments
-discus-identifier: # Add your Disqus identifier
+paginate:         5
 
-# Paginate
-paginate: 5
-paginate_path: /page:num/
-
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
-
-# Build settings
-markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
-exclude:
-  - Gemfile
-  - Gemfile.lock
-include: [_pages]
+
+# Custom vars
+version:            3.4.1
+sidebar_home_link:  false
+github:
+  repo:             https://github.com/xujinlai
