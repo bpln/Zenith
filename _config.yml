@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Zenith
 tagline:          'Zenith'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'An Edge Federation'
 url:              https://bpln.github.io/Zenith
 baseurl:          "/Zenith" # the optional subpath of your site, e.g. "/blog"
 
