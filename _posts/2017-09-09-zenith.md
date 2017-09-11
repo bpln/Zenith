@@ -20,7 +20,7 @@ Fog/Edge Computing is emerging to fill the gap between the Cloud and the end-poi
  + Region Division by Weighted Vonoroi Diagram (WVD)
     + Service Discovery with Constant Time
     + Natually Satisfies the Latency-Sensitive Workloads with Nearest Service Discovery
-    + Dynamically Balance the Workloads Between the Micro Data Centers with Ajusting the Weights for each Micro Data Centers
+    + Dynamically Balance the Workloads Between the Micro Data Centers with Ajusting the Weights for each Micro Data Center
     + Easy and Fast to Update
  + Auction-based Resource Allocation
     + Truthfulness: No Intuitive to Cheat Makes the Market with More Fairness
