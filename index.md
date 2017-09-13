@@ -3,7 +3,7 @@ title: Zenith
 layout: default
 ---
 
-#Overview
+# Overview
 
 ![Zenith]({{ site.url }}/images/Zenith-Intro.png "Zenith Architecture") 
 {: .pull-right}
