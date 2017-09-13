@@ -118,6 +118,7 @@ header ul li a strong {
 
 header ul li a strong:hover {
     color:#000;
+    text-decoration: underline;
 }
 
 strong {
