@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Overview
-sidebar_link: true
+layout: default
 ---
 
 ![Zenith]({{ site.url }}/images/Zenith-Intro.png "Zenith Architecture") 
