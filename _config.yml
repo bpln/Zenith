@@ -1,7 +1,7 @@
 title: Zenith
 description: An Edge Federation
 baseurl: "/Zenith" 
-url: "https://github.com/bpln/Zenith/"
+url: "https://bpln.github.io/Zenith"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
