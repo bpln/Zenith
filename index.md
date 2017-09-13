@@ -34,3 +34,4 @@ Fog/Edge Computing is emerging to fill the gap between the Cloud and the end-poi
 **Slides**
 
 <iframe src="https://onedrive.live.com/embed?cid=E1DD6EDD2DA4DFBE&resid=E1DD6EDD2DA4DFBE%2121505&authkey=AK5qp4kx3NvYRag&em=2" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+
