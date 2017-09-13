@@ -112,6 +112,13 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header ul li a {
+    color:#222;
+}
+
+header ul li a:hover {
+    color:#000;
+}
 
 strong {
   color:#222;
