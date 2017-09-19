@@ -3,9 +3,9 @@
 
 ## Overview
 
-In the Internet of Things(IoT) era, the demands for low-latency computing for time-sensitive applications (e.g., location-based augmented reality games, real-time smart grid management, real-time navigation using wearables) has been growing rapidly. Edge Computing provides an additional layer of infrastructure to ﬁll latency gaps between IoT devices and the backend computing infrastructure.
+In the Internet of Things(IoT) era, the demands for low-latency computing for time-sensitive applications (e.g., location-based augmented reality games, real-time smart grid management, real-time navigation using wearables) has been growing rapidly. Edge Computing provides an additional layer of infrastructure to fill latency gaps between IoT devices and the backend computing infrastructure.
 
-*Zenith* decouples resource allocation and service provisioning and management at the edge and provides a novel model to allocate resources at the edge to maximize utility. Zenith aims at increasing the overall resource allocation efficiency by allowing resources to be allocated and shared in a latency-aware manner. 
+*Zenith* decouples **resource allocation** and **service provisioning and management** at the edge and provides a novel model to allocate resources at the edge to maximize utility. Zenith aims at increasing the overall resource allocation efficiency by allowing resources to be allocated and shared in a latency-aware manner. 
 
 ## What is the challenge? 
  + Fair and Efficient Resource Allocation across Geographically Distributed Edge Resources
